@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color:aqua ;
+    border-radius:10px
+}
+
+h1 {
+
+color:red;}
+
+footer {
+    color:green;
+}
+nav {
+    margin: 10px;
+    font-size: 15px;
+    text-decoration: yellow;
+    color:purple ;
+}
+www {
+    font-size: 20px;
+}
+h2 {
+    font-size: 20px;
+    color:blue;
+}
